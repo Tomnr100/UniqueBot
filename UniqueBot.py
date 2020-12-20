@@ -48,5 +48,5 @@ def stats(username):
 		print("Prayer: " + prayer)
 		print("Magic: " + magic)
 	
-stats('Jxnas')
+stats('Username')
 
